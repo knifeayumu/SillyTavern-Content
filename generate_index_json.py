@@ -6,7 +6,7 @@ import base64
 from argparse import ArgumentParser
 
 
-DEFAULT_URL = "https://github.com/SillyTavern/SillyTavern-Content/raw/main/"
+DEFAULT_URL = "https://github.com/knifeayumu/SillyTavern-Content/raw/main/"
 ASSETS_FOLDER = "assets/"
 EXTENSIONS_FILE = "extensions.json"
 OUTPUT_JSON = "index.json"
